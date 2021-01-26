@@ -1,4 +1,5 @@
-# twitterClone
+# twitterClone 
+NodeJS, JS, MongoDB, hosted on herokuapp
 
 1. Please visit: https://tweetcloneapp.herokuapp.com (note it may take a while to load cause its hosted for free)
 
