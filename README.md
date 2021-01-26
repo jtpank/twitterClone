@@ -1,6 +1,6 @@
 # twitterClone
 
-1. Please visit: https://tweetcloneapp.herokuapp.com
+1. Please visit: https://tweetcloneapp.herokuapp.com (note it may take a while to load cause its hosted for free)
 
 Features:
 
